@@ -1,0 +1,15 @@
+{
+    "name": "hintik/aoc2024",
+    "autoload": {
+        "psr-4": {
+            "Hintik\\Aoc2024\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Hinterholzinger",
+            "email": "hintik@icloud.com"
+        }
+    ],
+    "require": {}
+}
